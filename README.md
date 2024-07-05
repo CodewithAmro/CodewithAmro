@@ -1,0 +1,4 @@
+-  Hi, I’m @CodewithAmro
+- 👀 I’m interested in website and webapp developing
+- 🌱 I’m currently learning python html css javascript DSA Sql Django 
+- 💞️ I’m looking to collaborate on Open scource projects
