@@ -9,7 +9,7 @@ Founder of SaaS products: **EduPilot** and **3aTari2ak**.
 ---
 
 ## 🚀 What I'm Working On
-
+- Backend Developer Intern @**Ministry of Yout & Sports"
 - Scaling **EduPilot** (AI-powered platform for lecturers)  
 - Developing **3aTari2ak** (transportation solution)  
 - Exploring advanced **ERP architectures**  
@@ -19,47 +19,42 @@ Founder of SaaS products: **EduPilot** and **3aTari2ak**.
 
 ## 🛠 Tech Stack
 
-### Frontend
+### 🖥 Frontend
 - React.js  
 - Next.js  
 - Tailwind CSS  
 
-### Backend
+### ⚙️ Backend
 - Node.js  
 - Express.js  
 - REST APIs  
+- Authentication & Authorization (JWT, secure flows)  
+- Payment Integrations & Webhooks  
 
-### Databases
-- MongoDB  
-- MySQL  
+### 🗄 Databases
+- MongoDB (NoSQL, flexible schemas)  
+- MySQL (relational, structured data)  
 
-### DevOps & Tools
+### ☁️ DevOps & Deployment
+- Linux (server management)  
+- Nginx (reverse proxy, load handling)  
+- PM2 (process management & uptime)  
+- DigitalOcean (cloud deployment)  
 - Git & GitHub  
-- GitHub Actions  
-- PM2  
-- Linux & Nginx  
-- DigitalOcean  
-- Postman  
+- GitHub Actions (CI/CD pipelines)  
+
+### 🧰 Tools
+- Postman (API testing)  
+- Logging & monitoring tools  
+- Environment management (.env, secrets handling)  
 
 ---
-
-## 📊 Focus Areas
-
-- System Design & Scalability  
-- Secure Backend Architectures  
-- High-Performance APIs  
-- Clean & Maintainable Code  
-- Production-Ready Deployments  
-
----
-
-## 📫 Contact
-
-- Email: **mohammadkassemamro@gmail.com**
-
----
-
 ## ⚡ Leadership & Experience
 
 - Ex-Club Leader @ AOU  
 - Student Ambassador @ Semicolon (Cybersecurity)  
+
+---
+
+## 📫 Contact
+- Email: **mohammadkassemamro@gmail.com**
