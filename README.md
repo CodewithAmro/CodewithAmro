@@ -1,16 +1,39 @@
-## Hi there 👋
+👋 About Me
 
-<!--
-**CodewithAmro/CodewithAmro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer focused on building scalable, secure, production-ready applications that solve real-world problems.
+Strong interest in ERP systems and payment integrations.
 
-Here are some ideas to get you started:
+Built enterprise-level platforms across AOU Middle East and contributed to backend systems for the Ministry of Youth & Sports.
+Founder of SaaS products: EduPilot and 3aTari2ak.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 What I'm Working On
+Scaling EduPilot (AI-powered platform for lecturers)
+Developing 3aTari2ak (transportation solution)
+Exploring advanced ERP architectures
+Improving payment system integrations & security
+
+🛠 Tech Stack
+Frontend:
+React.js, Next.js
+Tailwind CSS
+
+Backend:
+Node.js, Express.js
+REST APIs
+
+Database:
+MongoDB, MySQL
+
+Tools & DevOps:
+Git, GitHub, Github Actions
+PM2, Linux,nginx,DigitalOcean
+Postman
+
+📫 Contact Me
+Email: mohammadkassemamro@gmail.com
+LinkedIn: https://linkedin.com/in/your-profile
+Portfolio: https://your-portfolio.com
+
+⚡ Extra
+Ex-Club Leader @ AOU
+Student Ambassador @ Semicolon (Cybersecurity)
