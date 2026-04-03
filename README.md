@@ -1,39 +1,65 @@
-👋 About Me
+# 👋 Hi, I’m Mohammad Kassem Amro
 
-Full-Stack Developer focused on building scalable, secure, production-ready applications that solve real-world problems.
-Strong interest in ERP systems and payment integrations.
+Full-Stack Developer focused on building **scalable, secure, production-ready applications** that solve real-world problems.  
+Specialized in **ERP systems, SaaS platforms, and payment integrations**.
 
-Built enterprise-level platforms across AOU Middle East and contributed to backend systems for the Ministry of Youth & Sports.
-Founder of SaaS products: EduPilot and 3aTari2ak.
+I have built and contributed to enterprise platforms across **AOU Middle East** and worked on backend systems for the **Ministry of Youth & Sports**.  
+Founder of SaaS products: **EduPilot** and **3aTari2ak**.
 
-🚀 What I'm Working On
-Scaling EduPilot (AI-powered platform for lecturers)
-Developing 3aTari2ak (transportation solution)
-Exploring advanced ERP architectures
-Improving payment system integrations & security
+---
 
-🛠 Tech Stack
-Frontend:
-React.js, Next.js
-Tailwind CSS
+## 🚀 What I'm Working On
 
-Backend:
-Node.js, Express.js
-REST APIs
+- Scaling **EduPilot** (AI-powered platform for lecturers)  
+- Developing **3aTari2ak** (transportation solution)  
+- Exploring advanced **ERP architectures**  
+- Improving **payment systems, security, and integrations**  
 
-Database:
-MongoDB, MySQL
+---
 
-Tools & DevOps:
-Git, GitHub, Github Actions
-PM2, Linux,nginx,DigitalOcean
-Postman
+## 🛠 Tech Stack
 
-📫 Contact Me
-Email: mohammadkassemamro@gmail.com
-LinkedIn: https://linkedin.com/in/your-profile
-Portfolio: https://your-portfolio.com
+### Frontend
+- React.js  
+- Next.js  
+- Tailwind CSS  
 
-⚡ Extra
-Ex-Club Leader @ AOU
-Student Ambassador @ Semicolon (Cybersecurity)
+### Backend
+- Node.js  
+- Express.js  
+- REST APIs  
+
+### Databases
+- MongoDB  
+- MySQL  
+
+### DevOps & Tools
+- Git & GitHub  
+- GitHub Actions  
+- PM2  
+- Linux & Nginx  
+- DigitalOcean  
+- Postman  
+
+---
+
+## 📊 Focus Areas
+
+- System Design & Scalability  
+- Secure Backend Architectures  
+- High-Performance APIs  
+- Clean & Maintainable Code  
+- Production-Ready Deployments  
+
+---
+
+## 📫 Contact
+
+- Email: **mohammadkassemamro@gmail.com**
+
+---
+
+## ⚡ Leadership & Experience
+
+- Ex-Club Leader @ AOU  
+- Student Ambassador @ Semicolon (Cybersecurity)  
