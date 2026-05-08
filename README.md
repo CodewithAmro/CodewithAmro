@@ -13,7 +13,7 @@ Founder of SaaS products: **EduPilot** and **3aTari2ak**.
 - Scaling **EduPilot** (AI-powered platform for lecturers)  
 - Developing **3aTari2ak** (transportation solution)  
 - Exploring advanced **ERP architectures**  
-- Improving **payment systems, security, and integrations**  
+- Improving **payment systems**  
 
 ---
 
@@ -22,14 +22,16 @@ Founder of SaaS products: **EduPilot** and **3aTari2ak**.
 ### 🖥 Frontend
 - React.js  
 - Next.js  
-- Tailwind CSS  
+- Tailwind CSS
+- Framer Motion
 
 ### ⚙️ Backend
 - Node.js  
 - Express.js  
 - REST APIs  
 - Authentication & Authorization (JWT, secure flows)  
-- Payment Integrations & Webhooks  
+- Payment Integrations
+- Messegeing Features (Websockets.io)
 
 ### 🗄 Databases
 - MongoDB (NoSQL, flexible schemas)  
@@ -44,6 +46,7 @@ Founder of SaaS products: **EduPilot** and **3aTari2ak**.
 - GitHub Actions (CI/CD pipelines)  
 
 ### 🧰 Tools
+- Vitest (Frontend Testing)
 - Postman (API testing)  
 - Logging & monitoring tools  
 - Environment management (.env, secrets handling)  
@@ -51,7 +54,7 @@ Founder of SaaS products: **EduPilot** and **3aTari2ak**.
 ---
 ## ⚡ Leadership & Experience
 
-- Ex-Club Leader @ AOU  
+- CS Club Leader @ AOU  
 - Student Ambassador @ Semicolon (Cybersecurity)  
 
 ---
