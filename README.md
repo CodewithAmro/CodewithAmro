@@ -3,7 +3,7 @@
 Full-Stack Developer focused on building **scalable, secure, production-ready applications** that solve real-world problems.  
 Specialized in **ERP systems, SaaS platforms, and payment integrations**.
 
-I have built and contributed to enterprise platforms across **AOU Middle East** and worked on backend systems for the **Ministry of Youth & Sports**.  
+I have built and contributed to enterprise platforms across **AOU Middle East** as Frontend Developer and worked on backend systems for the **Ministry of Youth & Sports**.  
 Founder of SaaS products: **EduPilot** and **3aTari2ak**.
 
 ---
